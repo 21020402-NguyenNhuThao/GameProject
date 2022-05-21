@@ -1,17 +1,14 @@
 # Dự án cuối kì lớp học phần INT2215 1 - Lập trình nâng cao
 ## NGUYỄN NHƯ THẢO -21020402
 ### 1. Hướng dẫn cài đặt:
-- Giải nén file vừa tải 
+- Vào link [GitHub](https://github.com/21020402-NguyenNhuThao/GameProject.git) để clone về máy.
 - Chạy chương trình:
     + Cách 1: Ấn đúp chuột vào file program.exe 
     + Cách 2:
-        + Truy cập vào Folder GameNew trên VS Code
+        + Mở terminal
         + Nhập lệnh .\program rồi bấm enter
 ### 2. Mô tả chung về trò chơi, các ý tưởng chính
 #### a, Mô tả chung về trò chơi
-+ Tên game: SunnyLand
-+ Demo hình ảnh :
-![DEMO](#### a, Mô tả chung về trò chơi
 + Tên game: SunnyLand
 + Demo hình ảnh :
 ![DEMO](https://drive.google.com/file/d/1LZZs3XbY7eNAikgYnmVvEyNf-ZP6j2YU/view?usp=sharing)
