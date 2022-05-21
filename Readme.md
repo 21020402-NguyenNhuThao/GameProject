@@ -11,7 +11,17 @@
 #### a, Mô tả chung về trò chơi
 + Tên game: SunnyLand
 + Demo hình ảnh :
+![DEMO](#### a, Mô tả chung về trò chơi
++ Tên game: SunnyLand
++ Demo hình ảnh :
 ![DEMO](https://drive.google.com/file/d/1LZZs3XbY7eNAikgYnmVvEyNf-ZP6j2YU/view?usp=sharing)
+
++ Ý tưởng: Dựa trên cách chơi của game DinoChrome.
++ Cách chơi: 
+    + Ấn phím Space để vượt chướng ngại vật (Cây, ốc sên và ong). Va chạm với chướng ngại vật nhiều lần sẽ bị giảm máu.
+    + Ăn carrot sẽ giúp nhân vật hồi máu trở lại.
+    + Game sẽ kết thúc khi nhân vật hết máu.
+    + Thời gian sống càng lâu thì điểm càng cao.)
 
 + Ý tưởng: Dựa trên cách chơi của game DinoChrome.
 + Cách chơi: 
