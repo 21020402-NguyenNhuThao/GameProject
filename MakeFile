@@ -1,7 +1,7 @@
 CC = g++
 #define SDL_MAIN_HANDLED
-LINKFLAGS = -LC:/GameNew/srcgame/lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf
-INCLUDE_DIR = -IC:/GameNew/srcgame/include
+LINKFLAGS = -Lsrcgame/lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf
+INCLUDE_DIR = -Isrcgame/include
 COMPILE_FLAGS = -Wall -c $(INCLUDE_DIR)
 SOURCE = 
 BUILD_FLAG = $(LINKFLAGS)
